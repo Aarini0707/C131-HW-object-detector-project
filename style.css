@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+#bed_room_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: lightpink;
+}
+
+#tv_ac_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: lightskyblue ;
+}
+
+#desk_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(204, 135, 250) ;
+}
+
+#bottles_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(250, 135, 135) ;
+}
+
+#fruit_basket_button{
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+    width: 30%;
+    background-color: rgb(135, 250, 169) ;
+}
